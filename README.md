@@ -12,17 +12,17 @@
 
 #### 🚀 My Primary Skills
 
-<code title="JavaScript"><img height="32" src="js.png" alt="Javascript"/></code>
-<code title="Nodejs"><img height="32" src="node.png" alt="Nodejs"/></code>
-<code title="Angular"><img height="32" src="angular.png" alt="Angular"/></code>
-<code title="AdonisJs"><img height="32" src="adonis.png" alt="AdonisJs"/></code>
-<code title="ExpressJs"><img height="32" src="express.png" alt="ExpressJs"/></code>
-<code title="PHP"><img height="32" src="PHP.png" alt="PHP"/></code>
-<code title="SlimPHP"><img height="32" src="slim.png" alt="PHP"/></code>
-<code title="PostgreSQL"><img height="32" src="postgresql.png" alt="PostgreSQL"/></code>
-<code title="MySQL"><img height="32" src="mysql.png" alt="MySQL"/></code>
-<code title="MongoDb"><img height="32" src="mongodb.png" alt="MongoDb"/></code>
-<code title="Scrum"><img height="32" src="scrum.png" alt="Scrum"/></code>
+<code title="JavaScript"><img height="40" src="js.png" alt="Javascript"/></code>
+<code title="Nodejs"><img height="40" src="node.png" alt="Nodejs"/></code>
+<code title="Angular"><img height="40" src="angular.png" alt="Angular"/></code>
+<code title="AdonisJs"><img height="40" src="adonis.png" alt="AdonisJs"/></code>
+<code title="ExpressJs"><img height="40" src="express.png" alt="ExpressJs"/></code>
+<code title="PHP"><img height="40" src="PHP.png" alt="PHP"/></code>
+<code title="SlimPHP"><img height="40" src="slim.png" alt="PHP"/></code>
+<code title="PostgreSQL"><img height="40" src="postgresql.png" alt="PostgreSQL"/></code>
+<code title="MySQL"><img height="40" src="mysql.png" alt="MySQL"/></code>
+<code title="MongoDb"><img height="40" src="mongodb.png" alt="MongoDb"/></code>
+<code title="Scrum"><img height="40" src="scrum.png" alt="Scrum"/></code>
 
 ---
 
