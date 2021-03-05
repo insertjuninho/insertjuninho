@@ -2,7 +2,7 @@
 
 <p align="left" style="font-size: 20px"> 
    Hello my name is Alexandre Junior, I am passionate about programming and challenges because I believe that this motivates us more and more to study, when you what you love will always have fuel in the tank to wake up or turn night studying and working.
-   I am always open to new opportunities , I am <strong>Full-Stack Developer</strong> but my focus is <strong>Back-end</strong>.<br>
+   I am always open to new opportunities , I am <strong>Software Engineer</strong> but my focus is <strong>Back-end</strong>.<br>
     I have a certificate in IT and about to graduate in systems analysis.
 </p>
 
